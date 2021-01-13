@@ -16,12 +16,12 @@
     width: 90%;
     max-width: 1024px;
     margin: auto;
-    padding: 10px 10px 10px 10px;
+    padding: 20px 20px 20px 20px;
     color: aliceblue;
     font-family: sans-serif;
     text-align: center;
     background-color: #4267B2;
-    font-size: large;
+    font-size: calc(3vh + 3vw);
 }
 
 a:link {
